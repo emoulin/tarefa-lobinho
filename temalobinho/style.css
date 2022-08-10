@@ -1,0 +1,13 @@
+/* 
+Theme Name: Treinamento
+Author: Erik Moulin
+Description: Para treinar
+Version: 1 
+*/
+@import "css/reset.css";
+@import "css/styleHomePage.css";
+@import "css/styleListaLobinhos.css";
+@import "css/styleQuemSomos.css";
+@import "css/styleShowLobinho.css";
+@import "css/styleAddLobinho.css";
+@import "css/scriptAdoteLobinho.css";
